@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\bin\Debug\UsernameValidationApps.exe.config
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\bin\Debug\UsernameValidationApps.exe
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\bin\Debug\UsernameValidationApps.pdb
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\obj\Debug\UsernameValidationApps.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\obj\Debug\UsernameValidationApps.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\obj\Debug\UsernameValidationApps.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\obj\Debug\UsernameValidationApps.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\obj\Debug\UsernameValidationApps.exe
+C:\Users\LENOVO\source\repos\UsernameValidationApps\UsernameValidationApps\obj\Debug\UsernameValidationApps.pdb
